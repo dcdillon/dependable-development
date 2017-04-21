@@ -1,0 +1,10 @@
+Package: stat385data
+Type: Package
+Title: Load Data for STAT385 Example
+Version: 0.1.0
+Author: Daniel C. Dillon
+Maintainer: Daniel C. Dillon <dcdillon@gmail.com>
+Description: Load data for STAT385 example
+License: GPL-3
+LazyData: TRUE
+Depends: xts

@@ -1,0 +1,13 @@
+Package: stat385tester
+Type: Package
+Title: Test Production Implementation
+Version: 0.1.0
+Author: Daniel C. Dillon
+Maintainer: Daniel C. Dillon <dcdillon@gmail.com>
+Description: Tests the production implementatin
+License: GPL
+LazyData: TRUE
+Imports:
+    Rcpp (>= 0.12.8.1)
+LinkingTo:
+    Rcpp
